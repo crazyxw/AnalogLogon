@@ -17,8 +17,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class GeeTest(object):
     def __init__(self):
-        self.email = "crazy_wish@163.com"
-        self.password = "sun123"
+        self.email = "craz@sdfsd.com"
+        self.password = "asdasddsa"
         self.browser = webdriver.Chrome()
         self.wait = WebDriverWait(self.browser, 20)
 
