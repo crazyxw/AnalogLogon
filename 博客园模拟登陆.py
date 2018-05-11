@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# -*- coding: utf-8 -*-
-
-"""
-1. 模拟点击验证按钮
-2. 识别滑块缺口位置
-3. 拖动滑块到缺口位置
-"""
 import time
 from io import BytesIO
 from PIL import Image
