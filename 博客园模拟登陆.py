@@ -20,8 +20,8 @@ from selenium.webdriver.common.keys import Keys
 
 class CnBlogs(object):
     def __init__(self):
-        self.email = "crazy_wish"
-        self.password = "sun123"
+        self.email = "crazyhaha"
+        self.password = "dasddasd"
         self.browser = webdriver.Chrome()
         self.wait = WebDriverWait(self.browser, 20)
 
